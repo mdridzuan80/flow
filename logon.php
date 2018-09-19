@@ -1,2 +1,2 @@
 <?php
-    echo "Logon";
+    echo "Logon!";
