@@ -1,2 +1,3 @@
 <?php
-    echo "laporan Show";
+    echo "laporan Show er";
+    
