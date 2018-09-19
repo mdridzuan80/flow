@@ -1,2 +1,2 @@
 <?php
-    echo "laporan";
+    echo "laporan Show";
