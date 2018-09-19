@@ -1,2 +1,2 @@
 <?php
-    echo "lapora";
+    echo "laporan";
