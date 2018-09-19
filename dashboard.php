@@ -1,2 +1,2 @@
 <?php
-    echo "Dashboard";
+    echo "Dashboard Show";
